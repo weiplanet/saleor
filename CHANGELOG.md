@@ -68,6 +68,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Fix deleting product when default variant is deleted - #6186 by @IKarbowiak
 - Fix get unpublished products, product variants and collection as app - #6194 by @fowczarek
 - Set OrderFulfillStockInput fields as required - #6196 by @IKarbowiak
+- Don't create and process payment when checkout total is 0 - #6211 by @IKarbowiak
 
 ## 2.10.2
 
